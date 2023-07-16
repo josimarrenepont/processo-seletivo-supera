@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OrdenacaoParesImpares.iml" filepath="$PROJECT_DIR$/OrdenacaoParesImpares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Troco/Troco.iml" filepath="$PROJECT_DIR$/Troco/Troco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Troco/untitled/untitled.iml" filepath="$PROJECT_DIR$/../Troco/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
